@@ -11,7 +11,5 @@ public class GPSLogScreen extends AppCompatActivity {
         setContentView(R.layout.activity_gpslog_screen);
     }
 
-    private void test(){
-        int i = 1+1;
-    }
+
 }
